@@ -1,2 +1,2 @@
 # hello-world
-firt git
+hey my name is ori an im not black
